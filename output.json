@@ -1,0 +1,1502 @@
+[
+  {
+    "title": "Namecheap: Russia Service Termination",
+    "link": "item?id=30504812",
+    "points": 1334
+  },
+  {
+    "title": "Moving the Linux Kernel to Modern C",
+    "link": "https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/",
+    "points": 679
+  },
+  {
+    "title": "Twitter based map of Russian troop movements",
+    "link": "https://maphub.net/Cen4infoRes/russian-ukraine-monitor",
+    "points": 675
+  },
+  {
+    "title": "How I learned French in 12 months (2020)",
+    "link": "https://runwes.com/2020/02/11/howilearnedfrench.html",
+    "points": 659
+  },
+  {
+    "title": "A quick breakdown of what SWIFT is and why it matters",
+    "link": "https://twitter.com/sahilbloom/status/1496861068945154056",
+    "points": 502
+  },
+  {
+    "title": "BP quits Russia in up to $25B hit after Ukraine invasion",
+    "link": "https://www.reuters.com/business/energy/britains-bp-says-exit-stake-russian-oil-giant-rosneft-2022-02-27/",
+    "points": 483
+  },
+  {
+    "title": "Make Linux look like Windows 95",
+    "link": "https://lunduke.substack.com/p/make-linux-look-exactly-like-windows",
+    "points": 469
+  },
+  {
+    "title": "No_color",
+    "link": "https://no-color.org/",
+    "points": 462
+  },
+  {
+    "title": "Someone should probably start a bright home lighting company (2019)",
+    "link": "https://www.lincolnquirk.com/2019/11/26/lumenator.html",
+    "points": 433
+  },
+  {
+    "title": "You can have geothermal power everywhere if you drill deep enough",
+    "link": "https://www.treehugger.com/geothermal-drilling-technology-quaise-energy-5219924",
+    "points": 401
+  },
+  {
+    "title": "How to take credit for someone else's work on GitHub",
+    "link": "https://repography.com/blog/how-to-take-credit-for-someone-elses-work-on-github",
+    "points": 396
+  },
+  {
+    "title": "New JSON query operators in SQLite 3.38.0",
+    "link": "https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html",
+    "points": 389
+  },
+  {
+    "title": "Ask HN: The book that did it for you in math and/or CS?",
+    "link": "item?id=30485544",
+    "points": 372
+  },
+  {
+    "title": "Show HN: A more social, Amazon-free alternative to Goodreads",
+    "link": "https://www.booqsi.com/",
+    "points": 362
+  },
+  {
+    "title": "Linux from Scratch",
+    "link": "https://linuxfromscratch.org/",
+    "points": 361
+  },
+  {
+    "title": "The painfully shy developer's guide to networking for a better job (2017)",
+    "link": "https://www.samjulien.com/shy-dev-networking/",
+    "points": 356
+  },
+  {
+    "title": "F-Droid \u2013 alternative to Google Play store",
+    "link": "https://f-droid.org/en/",
+    "points": 335
+  },
+  {
+    "title": "Bill to require job postings to include salaries passes Washington Senate",
+    "link": "https://www.kiro7.com/news/local/bill-require-job-postings-include-salaries-passes-washington-senate/UFC2IBIGCJAJRLGMMKHWZ3F3PE/",
+    "points": 334
+  },
+  {
+    "title": "Fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid",
+    "link": "https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234",
+    "points": 332
+  },
+  {
+    "title": "Win32 is the stable Linux userland ABI (and the consequences)",
+    "link": "https://sporks.space/2022/02/27/win32-is-the-stable-linux-userland-abi-and-the-consequences/",
+    "points": 329
+  },
+  {
+    "title": "Why not hire part-time developers?",
+    "link": "https://aklos.substack.com/p/why-not-hire-part-time-developers",
+    "points": 329
+  },
+  {
+    "title": "Global chip shortage may soon turn into an oversupply crisis",
+    "link": "https://asia.nikkei.com/Opinion/Global-chip-shortage-may-soon-turn-into-an-oversupply-crisis",
+    "points": 329
+  },
+  {
+    "title": "GitHub\u2019s database of security advisories is now open source",
+    "link": "https://github.blog/2022-02-22-github-advisory-database-now-open-to-community-contributions/",
+    "points": 314
+  },
+  {
+    "title": "Project Oberon",
+    "link": "http://www.projectoberon.com",
+    "points": 309
+  },
+  {
+    "title": "No user accounts, by design",
+    "link": "https://f-droid.org/en/2022/02/28/no-user-accounts-by-design.html",
+    "points": 308
+  },
+  {
+    "title": "Caltech's CS interview prep course",
+    "link": "http://courses.cms.caltech.edu/cs11/material/interviews/",
+    "points": 308
+  },
+  {
+    "title": "OrioleDB \u2013 solving some PostgreSQL wicked problems",
+    "link": "https://github.com/orioledb/orioledb",
+    "points": 305
+  },
+  {
+    "title": "Open source alternatives to popular SaaS products",
+    "link": "https://github.com/RunaCapital/awesome-oss-alternatives",
+    "points": 291
+  },
+  {
+    "title": "Ask HN: Books to read when you transform from SWE into SWE Management?",
+    "link": "item?id=30497703",
+    "points": 282
+  },
+  {
+    "title": "MetalNES: Transistor Level NES Simulation",
+    "link": "https://github.com/iaddis/metalnes",
+    "points": 280
+  },
+  {
+    "title": "The claimed effect size is about a zillion times higher than is plausible",
+    "link": "https://statmodeling.stat.columbia.edu/2022/02/07/the-claimed-effect-size-is-about-a-zillion-times-higher-than-is-plausible/",
+    "points": 274
+  },
+  {
+    "title": "Longevity FAQ: A beginner's guide to longevity research",
+    "link": "https://www.ldeming.com/longevityfaq",
+    "points": 261
+  },
+  {
+    "title": "Gitlab Critical Security Release",
+    "link": "https://about.gitlab.com/releases/2022/02/25/critical-security-release-gitlab-14-8-2-released/",
+    "points": 260
+  },
+  {
+    "title": "Lenovo announces the first Arm-based ThinkPad",
+    "link": "https://arstechnica.com/gadgets/2022/02/lenovo-announces-the-first-arm-based-thinkpad/",
+    "points": 250
+  },
+  {
+    "title": "Germany mulls extending nuclear plants' life-span",
+    "link": "https://www.reuters.com/world/europe/germany-mulls-extending-nuclear-plants-life-span-economy-minister-2022-02-27/",
+    "points": 240
+  },
+  {
+    "title": "Badger 2040 \u2013 Fast updating RP2040 based e-Ink badge",
+    "link": "https://shop.pimoroni.com/products/badger-2040",
+    "points": 240
+  },
+  {
+    "title": "Heat people, not spaces (2015)",
+    "link": "https://solar.lowtechmagazine.com/2015/02/heating-people-not-spaces.html",
+    "points": 231
+  },
+  {
+    "title": "Norway's sovereign wealth fund to vote against Apple management's pay plan",
+    "link": "https://www.reuters.com/technology/norways-sovereign-wealth-fund-vote-against-apple-managements-pay-plan-2022-02-27/",
+    "points": 231
+  },
+  {
+    "title": "She went to sleep and woke up 30 years later (1998)",
+    "link": "http://www.generationterrorists.com/articles/30_years_later.html",
+    "points": 228
+  },
+  {
+    "title": "Year 2038 problem is still alive and well",
+    "link": "https://cookieplmonster.github.io/2022/02/17/year-2038-problem/",
+    "points": 226
+  },
+  {
+    "title": "iCloud+ custom email domains should be better",
+    "link": "https://domlaut.com/icloud-custom-email-domains-should-be-better/",
+    "points": 223
+  },
+  {
+    "title": "Why did renewables become so cheap so fast? (2020)",
+    "link": "https://ourworldindata.org/cheap-renewables-growth",
+    "points": 221
+  },
+  {
+    "title": "Computer Programming with Nim",
+    "link": "https://ssalewski.de/nimprogramming.html",
+    "points": 218
+  },
+  {
+    "title": "Universe Splitter",
+    "link": "http://cheapuniverses.com/universesplitter/",
+    "points": 210
+  },
+  {
+    "title": "AWS Lambda adds supports for .NET 6",
+    "link": "https://aws.amazon.com/blogs/compute/introducing-the-net-6-runtime-for-aws-lambda/",
+    "points": 209
+  },
+  {
+    "title": "Ask HN: Single-person creations that have stood the test of time?",
+    "link": "item?id=30500188",
+    "points": 208
+  },
+  {
+    "title": "End-of-life dates",
+    "link": "https://endoflife.date/",
+    "points": 207
+  },
+  {
+    "title": "Show HN: Messages for Macintosh \u2013 a classic Mac iMessage client",
+    "link": "https://github.com/CamHenlin/MessagesForMacintosh",
+    "points": 207
+  },
+  {
+    "title": "Curious lack of sprintf scaling",
+    "link": "https://aras-p.info/blog/2022/02/25/Curious-lack-of-sprintf-scaling/",
+    "points": 204
+  },
+  {
+    "title": "State Bar of California addresses breach of confidential data",
+    "link": "https://www.calbar.ca.gov/About-Us/News/News-Releases/state-bar-of-california-addresses-breach-of-confidential-data",
+    "points": 202
+  },
+  {
+    "title": "How to waste time and overcomplicate things",
+    "link": "https://ryanwarnock.me/blog/260222.html",
+    "points": 199
+  },
+  {
+    "title": "Russian central bank confirms block on foreign bids to sell Russian securities",
+    "link": "https://www.reuters.com/business/finance/russian-cbank-confirms-block-foreigners-bids-sell-russian-securities-2022-02-28/",
+    "points": 196
+  },
+  {
+    "title": "Germany aims to get 100% of energy from renewable sources by 2035",
+    "link": "https://www.reuters.com/business/sustainable-business/germany-aims-get-100-energy-renewable-sources-by-2035-2022-02-28/",
+    "points": 196
+  },
+  {
+    "title": "200-foot-long railway to nowhere is a brilliant shipping loophole",
+    "link": "https://www.thedrive.com/news/44445/canada-has-a-railroad-for-fish-thats-only-200-feet-long-heres-why",
+    "points": 193
+  },
+  {
+    "title": "Using Zig as cross-platform C toolchain",
+    "link": "https://ruoyusun.com/2022/02/27/zig-cc.html",
+    "points": 193
+  },
+  {
+    "title": "J. Kenji L\u00f3pez-Alt says you\u2019re cooking just fine",
+    "link": "https://www.newyorker.com/culture/the-new-yorker-interview/j-kenji-lopez-alt-says-youre-cooking-just-fine",
+    "points": 190
+  },
+  {
+    "title": "Neutral Swiss poised to freeze Russian assets \u2013 president",
+    "link": "https://www.reuters.com/world/europe/very-probable-that-swiss-will-freeze-russian-assets-president-2022-02-27/",
+    "points": 188
+  },
+  {
+    "title": "Brandon Sanderson\u2019s advice for doing hard things",
+    "link": "https://www.calnewport.com/blog/2022/02/25/brandon-sandersons-advice-for-doing-hard-things/",
+    "points": 177
+  },
+  {
+    "title": "On the Origin of the iPhone",
+    "link": "https://daringfireball.net/2022/02/on_the_origin_of_the_iphone",
+    "points": 177
+  },
+  {
+    "title": "So you want to design a programming language (2017)",
+    "link": "https://cs.lmu.edu/~ray/notes/languagedesignnotes/",
+    "points": 177
+  },
+  {
+    "title": "Effective teams don\u2019t keep secrets",
+    "link": "https://www.theadamthomas.com/effective-teams-dont-keep-secrets/",
+    "points": 173
+  },
+  {
+    "title": "Tell HN: If You Are in Russia",
+    "link": "item?id=30508314",
+    "points": 172
+  },
+  {
+    "title": "NASA\u2019s new shortcut to fusion power",
+    "link": "https://spectrum.ieee.org/lattice-confinement-fusion",
+    "points": 172
+  },
+  {
+    "title": "Almond.css: Collection of CSS styles to make simple websites look nicer",
+    "link": "https://github.com/alvaromontoro/almond.css",
+    "points": 168
+  },
+  {
+    "title": "Open source 5G core network base on 3GPP R15",
+    "link": "https://github.com/free5gc/free5gc",
+    "points": 164
+  },
+  {
+    "title": "Using Ansible and Nomad for a homelab (part 1)",
+    "link": "https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1",
+    "points": 162
+  },
+  {
+    "title": "Solid.js feels like what I always wanted React to be",
+    "link": "https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/",
+    "points": 161
+  },
+  {
+    "title": "The Life of Pi: Ten Years of Raspberry Pi",
+    "link": "https://www.cam.ac.uk/stories/raspberrypi",
+    "points": 161
+  },
+  {
+    "title": "Intel gets worse, but Power11 might get better",
+    "link": "https://www.talospace.com/2022/02/intel-gets-worse-but-power11-might-get.html",
+    "points": 160
+  },
+  {
+    "title": "US PTO rules against Univ of California, argues that Broad Inst invented CRISPR",
+    "link": "https://www.scribd.com/document/561762623/106-115-Decision-on-Priority",
+    "points": 156
+  },
+  {
+    "title": "Practical guide to solving hard problems",
+    "link": "https://praeclarum.org/2022/02/19/hard-problems.html",
+    "points": 156
+  },
+  {
+    "title": "A planned EU regulation about website certificates is causing concern",
+    "link": "https://www.feistyduck.com/bulletproof-tls-newsletter/issue_86_eu_plans_to_mandate_less_secure_certificates_in_browsers",
+    "points": 152
+  },
+  {
+    "title": "Don't Write a Programming Language",
+    "link": "https://write.as/loke/dont-write-a-programming-language",
+    "points": 151
+  },
+  {
+    "title": "An Interview with Intel CEO Pat Gelsinger",
+    "link": "https://stratechery.com/2022/an-interview-with-intel-ceo-pat-gelsinger/",
+    "points": 150
+  },
+  {
+    "title": "TSMC R&D chief: There\u2019s light at the end of the chip shortage",
+    "link": "https://spectrum.ieee.org/tsmc-exec-on-chip-shortage",
+    "points": 149
+  },
+  {
+    "title": "10 years ago the Feds shut down Megaupload",
+    "link": "https://torrentfreak.com/10-years-ago-the-feds-shut-down-megaupload-220120/",
+    "points": 149
+  },
+  {
+    "title": "Circumventing Deep Packet Inspection with Socat and Rot13",
+    "link": "https://gist.github.com/gmurdocca/88857b58dc4668d88b0d0fae6ebf8b64",
+    "points": 148
+  },
+  {
+    "title": "I use Org Mode for personal logging/journalling",
+    "link": "http://kevinkle.in/jekyll/update/2022/02/27/org_journal.html",
+    "points": 146
+  },
+  {
+    "title": "Are smartphones serving as adult pacifiers?",
+    "link": "https://www.washingtonpost.com/health/2022/02/26/cellphones-security-blankets/",
+    "points": 146
+  },
+  {
+    "title": "Briar has been removed from Google Play",
+    "link": "https://briarproject.org/news/2022-briar-removed-from-google-play/",
+    "points": 136
+  },
+  {
+    "title": "Milky Way and Andromeda galaxies are already merging (2020)",
+    "link": "https://earthsky.org/astronomy-essentials/earths-night-sky-milky-way-andromeda-merge/",
+    "points": 135
+  },
+  {
+    "title": "Migra: Diff for PostgreSQL schemas",
+    "link": "https://github.com/djrobstep/migra",
+    "points": 135
+  },
+  {
+    "title": "Intel energizes decades-old real-time Linux kernel project",
+    "link": "https://www.theregister.com/2022/02/24/intel_linutronix_linux/",
+    "points": 135
+  },
+  {
+    "title": "Solar-powered system offers a route to inexpensive desalination",
+    "link": "https://news.mit.edu/2022/solar-desalination-system-inexpensive-0214",
+    "points": 133
+  },
+  {
+    "title": "Total Resistance: Swiss Army Guide to Guerrilla Warfare (1965)",
+    "link": "https://archive.org/details/TotalResistanceSwissArmyGuideToGuerrillaWarfareAndUnderground",
+    "points": 132
+  },
+  {
+    "title": "The Kalman filter: helping chickens cross the road",
+    "link": "https://mathvoices.ams.org/featurecolumn/2022/02/01/the-kalman-filter-helping-chickens-cross-the-road/",
+    "points": 131
+  },
+  {
+    "title": "Documenting equipment losses during the 2022 Russian invasion of Ukraine",
+    "link": "https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html",
+    "points": 131
+  },
+  {
+    "title": "Playdate Software Development Kit is now available for free to all",
+    "link": "https://play.date/dev/",
+    "points": 127
+  },
+  {
+    "title": "Tell HN: Thank you for the noprocrast flag",
+    "link": "item?id=30498897",
+    "points": 122
+  },
+  {
+    "title": "A professor who beat roulette",
+    "link": "https://thehustle.co/professor-who-beat-roulette/",
+    "points": 111
+  },
+  {
+    "title": "Sci-Hub downloads show countries where pirate paper site is most used",
+    "link": "https://www.nature.com/articles/d41586-022-00556-y",
+    "points": 110
+  },
+  {
+    "title": "Panasonic to begin mass producing new 4680 Tesla battery by March 2024",
+    "link": "https://www.reuters.com/technology/panasonic-begin-mass-producing-new-tesla-battery-by-end-march-2022-02-28/",
+    "points": 109
+  },
+  {
+    "title": "Colorado to become first state to accept cryptocurrency for tax payments",
+    "link": "https://kdvr.com/news/local/colorado-to-become-first-state-to-accept-crypto-for-payments/",
+    "points": 108
+  },
+  {
+    "title": "Ruby Fiber Scheduler",
+    "link": "https://brunosutic.com/blog/ruby-fiber-scheduler",
+    "points": 107
+  },
+  {
+    "title": "How to earn money by hacking a \u201cwalking for money\u201d app",
+    "link": "https://www.deadf00d.com/post/how-to-earn-money-by-hacking-a-walking-for-money-app.html",
+    "points": 104
+  },
+  {
+    "title": "Explanation of Bitcoin\u2019s Elliptic Curve Digital Signature Algorithm",
+    "link": "https://suhailsaqan.medium.com/explanation-of-bitcoins-elliptic-curve-digital-signature-algorithm-6603f951863a",
+    "points": 104
+  },
+  {
+    "title": "Arctic Inuit, Native American adaptations to cold and body fat distribution",
+    "link": "https://academic.oup.com/mbe/article/34/4/1021/3065792",
+    "points": 103
+  },
+  {
+    "title": "Show HN: TopHat Finance \u2013 free, open, and offline",
+    "link": "https://athenodoros.github.io/TopHat/",
+    "points": 102
+  },
+  {
+    "title": "Wordlexpr: Compile-Time Wordle in C++20",
+    "link": "https://vittorioromeo.info/index/blog/wordlexpr.html",
+    "points": 101
+  },
+  {
+    "title": "The internet was designed with a narrow waist",
+    "link": "https://www.oilshell.org/blog/2022/02/diagrams.html",
+    "points": 100
+  },
+  {
+    "title": "An-225 destruction image analysis",
+    "link": "https://old.reddit.com/r/aviation/comments/t2lnql/an225_destruction_image_analysis_seems_real/",
+    "points": 100
+  },
+  {
+    "title": "Russia 'Likely' to Default on Debts",
+    "link": "https://www.reuters.com/article/ukraine-russia-sanctions-iif-idINKBN2KX240",
+    "points": 98
+  },
+  {
+    "title": "Cozy Futurism",
+    "link": "https://nintil.com/cozy-futurism",
+    "points": 97
+  },
+  {
+    "title": "What use is mental math in 2022?",
+    "link": "https://www.johndcook.com/blog/2022/02/17/mental-math-2022/",
+    "points": 97
+  },
+  {
+    "title": "Orwell's Proposed Preface to \u2018Animal Farm\u2019 (1945)",
+    "link": "https://orwell.ru/library/novels/Animal_Farm/english/efp_go",
+    "points": 95
+  },
+  {
+    "title": "Russia-Ukraine Warning Update: Russian Offensive Campaign Assessment February 27",
+    "link": "http://www.iswresearch.org/2022/02/russia-ukraine-warning-update-russian_27.html",
+    "points": 94
+  },
+  {
+    "title": "MasterCard Blocks Transactions from Russia",
+    "link": "https://www.reuters.com/business/mastercard-blocks-multiple-russian-financial-institutions-network-2022-03-01/",
+    "points": 92
+  },
+  {
+    "title": "TorchRec, a library for modern production recommendation systems",
+    "link": "https://pytorch.org/blog/introducing-torchrec/",
+    "points": 92
+  },
+  {
+    "title": "I made a site to track Russian Military Radio Communications",
+    "link": "https://russianwarchatter.info",
+    "points": 90
+  },
+  {
+    "title": "ComiCSS",
+    "link": "https://alvaromontoro.com/blog/67998/introducing-comicss",
+    "points": 89
+  },
+  {
+    "title": "What Got You Here Won\u2019t Get You There: Book Summary",
+    "link": "https://jamesclear.com/book-summaries/what-got-you-here-wont-get-you-there",
+    "points": 88
+  },
+  {
+    "title": "Launch HN: Convoy (YC W22) \u2013 Open-source cloud-native webhooks service",
+    "link": "https://getconvoy.io",
+    "points": 87
+  },
+  {
+    "title": "$60 PC Oscilloscope Review",
+    "link": "https://hackaday.com/2022/02/26/60-pc-oscilloscope-review/",
+    "points": 86
+  },
+  {
+    "title": "Launch HN: Drifting in Space (YC W22) \u2013 A server process for every user",
+    "link": "https://driftingin.space/",
+    "points": 85
+  },
+  {
+    "title": "Hooks: React\u2019s Do-Notation",
+    "link": "https://devanshj.me/writings/hooks-reacts-do-notation",
+    "points": 82
+  },
+  {
+    "title": "Wasmer 2.2",
+    "link": "https://wasmer.io/posts/wasmer-2.2",
+    "points": 79
+  },
+  {
+    "title": "Longbet: By 2027, software will be metered/sold by the second",
+    "link": "https://longbets.org/884/",
+    "points": 79
+  },
+  {
+    "title": "Brains and algorithms partially converge in natural language processing",
+    "link": "https://www.nature.com/articles/s42003-022-03036-1",
+    "points": 78
+  },
+  {
+    "title": "Serious flaws in the way Samsung phones encrypt key material in TrustZone",
+    "link": "https://twitter.com/matthew_d_green/status/1495935700545454084",
+    "points": 77
+  },
+  {
+    "title": "Thunderbird\u2019s New Home (2020)",
+    "link": "https://blog.thunderbird.net/2020/01/thunderbirds-new-home/",
+    "points": 76
+  },
+  {
+    "title": "The dark secrets of Whopper Sacrifice (2009)",
+    "link": "https://www.cnet.com/news/the-dark-secrets-of-whopper-sacrifice/",
+    "points": 66
+  },
+  {
+    "title": "Help me to bring my family from war",
+    "link": "https://ferkad.wordpress.com/2022/02/27/help/",
+    "points": 62
+  },
+  {
+    "title": "Tank Mouse: Wireless Amiga-inspired optical mouse",
+    "link": "https://www.kickstarter.com/projects/lukas-remis/tank-mouse-your-new-amiga-mouse",
+    "points": 60
+  },
+  {
+    "title": "Russian state news declared victory too soon and quickly deletes article",
+    "link": "https://web.archive.org/web/20220226224717/https://ria.ru/20220226/rossiya-1775162336.html",
+    "points": 57
+  },
+  {
+    "title": "Flying a single-engine Antonov An-2 over the Atlantic Ocean",
+    "link": "https://dmax.de/sendungen/steel-buddies/special-flight-of-the-antonov/",
+    "points": 57
+  },
+  {
+    "title": "Dependency injection in Go with Uber-go/fx",
+    "link": "https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx",
+    "points": 57
+  },
+  {
+    "title": "Self Balancing Arduino Robot",
+    "link": "https://blog.arduino.cc/2022/02/26/james-brutons-strange-bicycle-robot-self-balances-with-an-omni-wheel/",
+    "points": 56
+  },
+  {
+    "title": "BLAS-level CPU Performance in 100 Lines of C",
+    "link": "https://cs.stanford.edu/people/shadjis/blas.html",
+    "points": 54
+  },
+  {
+    "title": "How to make small tweaks to free software",
+    "link": "https://gist.github.com/rain-1/799a4af4a9919c14c956272fe971b5d1",
+    "points": 54
+  },
+  {
+    "title": "Increased error rate on Gov.uk on 5 January 2022",
+    "link": "https://insidegovuk.blog.gov.uk/2022/02/25/incident-report-increased-error-rate-on-gov-uk-on-5-january-2022/",
+    "points": 53
+  },
+  {
+    "title": "Rhodes MK8",
+    "link": "https://rhodesmusic.com/",
+    "points": 53
+  },
+  {
+    "title": "The Radical Woman Behind \u201cGoodnight Moon\u201d",
+    "link": "https://www.newyorker.com/magazine/2022/02/07/the-radical-woman-behind-goodnight-moon",
+    "points": 52
+  },
+  {
+    "title": "An Ableton Live set is gzipped XML (2012)",
+    "link": "http://crooked-hideout.blogspot.com/2012/01/ableton-live-set-is-gzipped-xml-ruby.html",
+    "points": 52
+  },
+  {
+    "title": "Writing UTF-8 Programs in Plan 9",
+    "link": "https://seh.dev/9runes/",
+    "points": 51
+  },
+  {
+    "title": "Wt, C++ Web Toolkit",
+    "link": "https://www.webtoolkit.eu/wt/",
+    "points": 50
+  },
+  {
+    "title": "The origin story of our new ortholinear keyboard",
+    "link": "https://dygma.com/blogs/product-development/story-new-ortholinear-keyboard",
+    "points": 48
+  },
+  {
+    "title": "Metaphysics of Mapping Buildings",
+    "link": "https://snufk.in/blog/mapping-buildings.html",
+    "points": 48
+  },
+  {
+    "title": "First impressions of the Freenet network",
+    "link": "https://cheapskatesguide.org/articles/freenet.html",
+    "points": 46
+  },
+  {
+    "title": "Britain widens Russian 'dirty money' crackdown with new law",
+    "link": "https://www.reuters.com/world/uk/britain-widens-russian-dirty-money-crackdown-with-new-law-2022-02-28/",
+    "points": 46
+  },
+  {
+    "title": "Aldus PageMaker (Version 4.2)",
+    "link": "https://www.computinghistory.org.uk/det/51923/Aldus%20PageMaker%20(version%204.2)/",
+    "points": 46
+  },
+  {
+    "title": "Expremigen: Expressive MIDI Generation Library",
+    "link": "https://github.com/shimpe/expremigen",
+    "points": 45
+  },
+  {
+    "title": "SF is latest city to consider tackling its housing crisis by taxing empty homes",
+    "link": "https://qz.com/2125251/cities-are-taxing-vacant-homes-to-create-more-housing/",
+    "points": 45
+  },
+  {
+    "title": "Afrika is not poor, it is terribly managed",
+    "link": "https://www.iafrikan.com/why-most-african-countries-are-not-prospering/",
+    "points": 44
+  },
+  {
+    "title": "Show HN: I Created a Chrome Extension for PG: TRAB (Tweet Reporter and Blocker)",
+    "link": "https://github.com/elbee19/trab",
+    "points": 42
+  },
+  {
+    "title": "Antonovs in America (2012)",
+    "link": "https://www.smithsonianmag.com/air-space-magazine/antonovs-in-america-3916822/",
+    "points": 42
+  },
+  {
+    "title": "Meat-eating extends human life expectancy worldwide",
+    "link": "https://medicalxpress.com/news/2022-02-meat-eating-human-life-worldwide.html",
+    "points": 41
+  },
+  {
+    "title": "Dealing with a Cybiko Classic in 2022",
+    "link": "https://kn100.me/interfacing-with-cybiko-2022/",
+    "points": 41
+  },
+  {
+    "title": "Albrecht D\u00fcrer\u2019s Pillow Studies (1493)",
+    "link": "https://publicdomainreview.org/collection/durer-pillow-studies/",
+    "points": 40
+  },
+  {
+    "title": "Quantum computing for the curious (2019)",
+    "link": "https://quantum.country/qcvc",
+    "points": 40
+  },
+  {
+    "title": "Clinical trials are ailing",
+    "link": "https://www.economist.com/britain/2022/02/26/clinical-trials-are-ailing",
+    "points": 40
+  },
+  {
+    "title": "Sid Meier warns the games industry about monetisation",
+    "link": "https://www.bbc.com/news/entertainment-arts-60304123",
+    "points": 40
+  },
+  {
+    "title": "Russia's financial meltdown and the global dollar system",
+    "link": "https://adamtooze.substack.com/p/chartbook-89-russias-financial-meltdown",
+    "points": 39
+  },
+  {
+    "title": "Haptics rerouting for fun and no profit",
+    "link": "https://nonpolynomial.com/2022/02/27/919/",
+    "points": 37
+  },
+  {
+    "title": "Modeling chopping onions: The importance of mise en place",
+    "link": "https://app.hex.tech/399c4a29-5b7f-4f70-8b53-afa8da38dd72/app/1682146f-f233-4219-bf3f-e5ec682d00db/latest",
+    "points": 37
+  },
+  {
+    "title": "Build your own MENACE (matchbox-powered machine learning computer)",
+    "link": "https://www.mscroggs.co.uk/blog/94",
+    "points": 37
+  },
+  {
+    "title": "The Great Curly Brace Trace Chase (2003)",
+    "link": "https://web.archive.org/web/20120219061851/http://www.trailing-edge.com/~bobbemer/BRACES.HTM",
+    "points": 37
+  },
+  {
+    "title": "Transit Panel",
+    "link": "https://www.kerrickstaley.com/2022/02/25/transit-panel",
+    "points": 36
+  },
+  {
+    "title": "Goodreads lost all of my reviews",
+    "link": "https://www.somebits.com/weblog/tech/bad/goodreads-lost-all-my-data.html",
+    "points": 35
+  },
+  {
+    "title": "John B. Cade\u2019s project to document the stories of the formerly enslaved",
+    "link": "https://daily.jstor.org/john-b-cades-project-to-document-the-stories-of-the-formerly-enslaved/",
+    "points": 35
+  },
+  {
+    "title": "Django Garnett \u2013 simple multilingual models for Django",
+    "link": "https://github.com/Aristotle-Metadata-Enterprises/django-garnett",
+    "points": 33
+  },
+  {
+    "title": "Russians in every major city and region call for nowar",
+    "link": "https://www.economist.com/graphic-detail/2022/02/28/russians-in-every-major-city-and-region-call-for-nowar",
+    "points": 33
+  },
+  {
+    "title": "You Need a Domain Name",
+    "link": "https://johnathannader.com/why-you-need-domain-name/",
+    "points": 33
+  },
+  {
+    "title": "\u201cMeant to be devastating.\u201d Wiper malware rattles Ukraine",
+    "link": "https://readme.security/meant-to-be-devastating-wiper-malware-rattles-ukraine-as-russia-presses-invasion-dc82f24a0d11?gi=9daff2b5b6b5",
+    "points": 33
+  },
+  {
+    "title": "A brief history of liquid computers (2019)",
+    "link": "https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372",
+    "points": 33
+  },
+  {
+    "title": "Using CMOS Sensors in a Cellphone for Gamma Detection and Classification",
+    "link": "https://arxiv.org/abs/1401.0766",
+    "points": 32
+  },
+  {
+    "title": "Ask HN: Tips on hosting your own Postgres instance",
+    "link": "item?id=30497574",
+    "points": 32
+  },
+  {
+    "title": "Why you\u2019re not doing creative work",
+    "link": "https://every.to/superorganizers/why-you-re-not-doing-creative-work",
+    "points": 30
+  },
+  {
+    "title": "Putin\u2019s Ban on Foreign Debt Service Raises $478B Question",
+    "link": "https://finance.yahoo.com/news/putin-bans-russians-servicing-foreign-160313949.html",
+    "points": 30
+  },
+  {
+    "title": "India explores setting up rupee trade accounts with Russia to soften sanctions",
+    "link": "https://www.reuters.com/world/india/india-explores-setting-up-rupee-trade-accounts-with-russia-soften-sanctions-blow-2022-02-25/",
+    "points": 30
+  },
+  {
+    "title": "Crypto Exchange Binance Says It Is Taking Steps Against Sanction Targets",
+    "link": "https://www.wsj.com/livecoverage/russia-ukraine-latest-news-2022-02-26/card/crypto-exchange-binance-says-it-is-taking-steps-against-sanction-targets-P8TSn40r41XhFvMaXsEi",
+    "points": 30
+  },
+  {
+    "title": "HTMLMediaElement.canPlayType()",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/canPlayType",
+    "points": 30
+  },
+  {
+    "title": "Govt suggests Brits should hand passports to social media companies",
+    "link": "https://www.theregister.com/2022/02/28/online_safety_bill_dorries/",
+    "points": 29
+  },
+  {
+    "title": "Nostalgia MacPaint",
+    "link": "https://paint.withdiagram.com/",
+    "points": 28
+  },
+  {
+    "title": "TL;DR \u2013 Hybrid Public Key Encryption",
+    "link": "https://www.franziskuskiefer.de/p/tldr-hybrid-public-key-encryption/",
+    "points": 28
+  },
+  {
+    "title": "Why I Quit a $450k Engineering Job at Netflix",
+    "link": "https://medium.com/@_michaellin/why-i-quit-a-450k-engineering-job-at-netflix-874454397885",
+    "points": 28
+  },
+  {
+    "title": "Reshape: An experimental, easy-to-use, zero-downtime migration tool for Postgres",
+    "link": "https://github.com/fabianlindfors/reshape",
+    "points": 28
+  },
+  {
+    "title": "Role of ambient humidity underestimated in research",
+    "link": "https://www.nature.com/articles/s41598-022-06171-1",
+    "points": 27
+  },
+  {
+    "title": "David Boggs, Co-Inventor of Ethernet, Dies at 71",
+    "link": "https://www.nytimes.com/2022/02/28/technology/david-boggs-dead.html",
+    "points": 27
+  },
+  {
+    "title": "A summary of the international standard date and time notation (2004)",
+    "link": "https://www.cl.cam.ac.uk/~mgk25/iso-time.html",
+    "points": 27
+  },
+  {
+    "title": "Acoustic vs. Electric Mandolin",
+    "link": "https://www.jefftk.com/p/acoustic-vs-electric-mandolin",
+    "points": 27
+  },
+  {
+    "title": "Degoogled phones running privacy oriented OS \u2013 degoogled phone",
+    "link": "https://de-googled.com/",
+    "points": 26
+  },
+  {
+    "title": "Satellite outage knocks out thousands of Enercon's wind turbines",
+    "link": "https://www.reuters.com/business/energy/satellite-outage-knocks-out-control-enercon-wind-turbines-2022-02-28/",
+    "points": 26
+  },
+  {
+    "title": "DaVinci's Gallery of Photoshop Graphics and Tutorials",
+    "link": "https://web.archive.org/web/20020122110000/http://davinci.ice.org:80/",
+    "points": 25
+  },
+  {
+    "title": "The Moscow stock exchange will stay closed on Monday",
+    "link": "https://www.cnn.com/europe/live-news/ukraine-russia-news-02-28-22/index.html",
+    "points": 24
+  },
+  {
+    "title": "TorchStudio, a free open-source IDE for PyTorch",
+    "link": "https://www.torchstudio.ai/",
+    "points": 23
+  },
+  {
+    "title": "A wartime plea to Western satellite companies: \u201cWe need this data, please\u201d",
+    "link": "https://arstechnica.com/science/2022/02/a-wartime-plea-to-western-satellite-companies-we-need-this-data-please/",
+    "points": 22
+  },
+  {
+    "title": "Why 4 Bloomberg engineers wrote another C++ book",
+    "link": "https://www.bloomberg.com/company/stories/why-4-bloomberg-engineers-wrote-another-cplusplus-book/",
+    "points": 22
+  },
+  {
+    "title": "The Making of Tupaia\u2019s Map (2018)",
+    "link": "https://www.tandfonline.com/doi/full/10.1080/00223344.2018.1512369",
+    "points": 22
+  },
+  {
+    "title": "America\u2019s love-hate relationship with the bald eagle",
+    "link": "https://www.theatlantic.com/magazine/archive/2022/03/bald-eagle-america-history-jack-e-davis/621311/",
+    "points": 22
+  },
+  {
+    "title": "Beyond Indie Hacking",
+    "link": "https://www.tik.dev/blog/beyond-indie-hacking",
+    "points": 22
+  },
+  {
+    "title": "Vladimir Putin's Black Belt Revoked by International Taekwondo Organization",
+    "link": "https://www.newsweek.com/vladimir-putins-black-belt-revoked-international-taekwondo-organization-1683304",
+    "points": 22
+  },
+  {
+    "title": "Pokitto: Open-source pocket gaming console",
+    "link": "https://www.pokitto.com/",
+    "points": 21
+  },
+  {
+    "title": "The Mysterious Case of the Missing Russian Air Force",
+    "link": "https://rusi.org/explore-our-research/publications/commentary/mysterious-case-missing-russian-air-force/",
+    "points": 21
+  },
+  {
+    "title": "Apko: bringing distroless nirvana to Alpine Linux",
+    "link": "https://blog.chainguard.dev/introducing-apko-bringing-distroless-nirvana-to-alpine-linux/",
+    "points": 20
+  },
+  {
+    "title": "No, bad leftovers didn\u2019t cause teen\u2019s life-threatening infection, amputations",
+    "link": "https://arstechnica.com/science/2022/02/experts-skewer-media-reports-blaming-life-threatening-infection-on-bad-lo-mein/",
+    "points": 20
+  },
+  {
+    "title": "Animal-free dairy milk set to finally hit US retail shelves",
+    "link": "https://newatlas.com/science/animal-free-dairy-milk-betterland-perfect-day-whey-protein-on-sale/",
+    "points": 20
+  },
+  {
+    "title": "Ukraine Call for Hackers",
+    "link": "item?id=30500350",
+    "points": 20
+  },
+  {
+    "title": "Meeting of Romantic Minds",
+    "link": "https://theamericanscholar.org/meeting-of-romantic-minds/",
+    "points": 19
+  },
+  {
+    "title": "Thermobaric Weapon",
+    "link": "https://en.wikipedia.org/wiki/Thermobaric_weapon",
+    "points": 19
+  },
+  {
+    "title": "Atheist banned on Facebook for pointing out hate speech",
+    "link": "https://www.youtube.com/watch?v=cTuOgb-wH4I",
+    "points": 18
+  },
+  {
+    "title": "The Kyiv Declaration",
+    "link": "https://kyivdeclaration.org/",
+    "points": 18
+  },
+  {
+    "title": "Johns Hopkins curators examine musical mystery linked to Edgar Allan Poe",
+    "link": "https://www.washingtonpost.com/local/johns-hopkins-curators-examine-musical-mystery-linked-to-edgar-allan-poe/2022/02/22/6339c0de-93fb-11ec-9596-57e799adb3bd_story.html",
+    "points": 18
+  },
+  {
+    "title": "Lenovo ThinkPad x Snapdragon: Fanless ARM ThinkPad X13s offers long battery life",
+    "link": "https://www.notebookcheck.net/Lenovo-ThinkPad-x-Snapdragon-Fanless-ARM-ThinkPad-X13s-offers-long-battery-life.604882.0.html",
+    "points": 18
+  },
+  {
+    "title": "The taming of Reddit and the National Security State Plant tabbed to do it",
+    "link": "https://mronline.org/2021/06/14/jessica-ashooh-the-taming-of-reddit-and-the-national-security-state-plant-tabbed-to-do-it/",
+    "points": 17
+  },
+  {
+    "title": "Powers of 2 in lexical order yield decibels (2019)",
+    "link": "https://www.solipsys.co.uk/new/PowersOfTwoInLexOrder.html?VB28JC",
+    "points": 17
+  },
+  {
+    "title": "Ask HN: I have received a Cease And Desist letter. What to do?",
+    "link": "item?id=30503983",
+    "points": 17
+  },
+  {
+    "title": "Great uses for an old Android smartphone",
+    "link": "https://www.computerworld.com/article/2487680/20-great-uses-for-an-old-android-device.html",
+    "points": 17
+  },
+  {
+    "title": "Held Hostage on the Job",
+    "link": "https://english.elpais.com/economy-and-business/2022-02-27/held-hostage-on-the-job.html",
+    "points": 17
+  },
+  {
+    "title": "Show HN: Container registry on a budget using AWS S3",
+    "link": "https://maltheborch.com/#container-registry-on-a-budget-using-aws-s3",
+    "points": 16
+  },
+  {
+    "title": "Apple Pay and Google Pay no longer work on Moscow's metro system",
+    "link": "https://twitter.com/jason_corcoran/status/1498343208094478354",
+    "points": 15
+  },
+  {
+    "title": "Mozilla's Open Leadership Training Series",
+    "link": "https://mozilla.github.io/open-leadership-training-series/",
+    "points": 15
+  },
+  {
+    "title": "Flies possess more sophisticated cognitive abilities than previously known",
+    "link": "https://ucsdnews.ucsd.edu/pressrelease/flies-possess-more-sophisticated-cognitive-abilities-than-previously-known",
+    "points": 14
+  },
+  {
+    "title": "The BBC Is Using It\u2019s Own \u2018Dot BBC\u2019 Domain (2021)",
+    "link": "https://imarc.co.uk/2021/02/13/the-bbc-is-using-its-own-dot-bbc-domain/",
+    "points": 14
+  },
+  {
+    "title": "Seismic study reveals key reason why Patagonia is rising as glaciers melt",
+    "link": "https://phys.org/news/2022-02-seismic-reveals-key-patagonia-glaciers.html",
+    "points": 14
+  },
+  {
+    "title": "Stuffing Ourselves: The Tyranny of Logistics",
+    "link": "https://www.thedriftmag.com/stuffing-ourselves/",
+    "points": 14
+  },
+  {
+    "title": "Ask HN: Armour and Helmet Recommendations",
+    "link": "item?id=30506001",
+    "points": 13
+  },
+  {
+    "title": "LLVM-MOS 6502 Toolchain Initial Release",
+    "link": "https://github.com/llvm-mos/llvm-mos-sdk/releases/tag/v0.1.0",
+    "points": 13
+  },
+  {
+    "title": "Planetary Sapience",
+    "link": "https://www.noemamag.com/planetary-sapience/",
+    "points": 13
+  },
+  {
+    "title": "Apple Patent Envisions a Mac Inside a Keyboard",
+    "link": "https://www.extremetech.com/computing/332165-apple-patent-envisions-a-mac-inside-a-keyboard",
+    "points": 13
+  },
+  {
+    "title": "War of Words: Meet the Texan Trolling for Putin",
+    "link": "https://www.texasmonthly.com/articles/son-wealthy-businessman-foot-soldier-vladimir-putin-russia-hacking/",
+    "points": 12
+  },
+  {
+    "title": "Turkey Closes the Dardanelles and Bosphorus to Warships",
+    "link": "https://www.navalnews.com/naval-news/2022/02/turkey-closes-the-dardanelles-and-bosphorus-to-warships/",
+    "points": 12
+  },
+  {
+    "title": "MWC 2022: The next Microsoft Pluton Device and PAC technology",
+    "link": "https://blogs.windows.com/windowsexperience/2022/02/28/mwc-2022-the-next-microsoft-pluton-device-pac-technology/",
+    "points": 11
+  },
+  {
+    "title": "Russian Electric Vehicle Chargers Hacked, Tell Users \u2018Putin Is a Dickhead\u2019",
+    "link": "https://www.vice.com/en/article/akvya5/russian-electric-vehicle-chargers-hacked-tell-users-putin-is-a-dickhead",
+    "points": 11
+  },
+  {
+    "title": "Armbian 22.02 Release Announcement",
+    "link": "https://www.armbian.com/newsflash/armbian-22-02-pig-release-announcement/",
+    "points": 11
+  },
+  {
+    "title": "People eavesdropping on life underground \u2013 BBC",
+    "link": "https://www.bbc.com/future/article/20220225-the-people-eavesdropping-on-life-underground",
+    "points": 11
+  },
+  {
+    "title": "Microsoft to remove RT apps, ban Russian state-owned media ads",
+    "link": "https://www.reuters.com/business/media-telecom/microsoft-remove-rt-apps-ban-russian-state-owned-media-ads-2022-02-28/",
+    "points": 11
+  },
+  {
+    "title": "Show HN: Prig \u2013 like AWK, but uses Go for \u201cscripting\u201d",
+    "link": "https://benhoyt.com/writings/prig/?showhn",
+    "points": 11
+  },
+  {
+    "title": "Anatomy of a JWT",
+    "link": "https://fusionauth.io/learn/expert-advice/tokens/anatomy-of-jwt",
+    "points": 11
+  },
+  {
+    "title": "Ukraine's ambassador to U.S. says Russia used a vacuum bomb on Monday",
+    "link": "https://www.reuters.com/world/europe/ukraines-ambassador-us-says-russia-used-vacuum-bomb-monday-2022-02-28/",
+    "points": 11
+  },
+  {
+    "title": "Toyota to halt operations at all Japan plants due to cyberattack Asia",
+    "link": "https://asia.nikkei.com/Business/Automobiles/Toyota-to-halt-operations-at-all-Japan-plants-due-to-cyberattack",
+    "points": 11
+  },
+  {
+    "title": "Sid Meier warns the games industry about monetisation",
+    "link": "https://www.bbc.co.uk/news/entertainment-arts-60304123",
+    "points": 11
+  },
+  {
+    "title": "Ask HN: What has been your biggest IT security fuck-up?",
+    "link": "item?id=30503829",
+    "points": 11
+  },
+  {
+    "title": "NoCode isn't dying. But it has problems",
+    "link": "https://blog.neuman.so/nocode-isnt-dying-but-has-problems",
+    "points": 11
+  },
+  {
+    "title": "Hawaii relies on Russian oil \u2013 but clean energy could change that",
+    "link": "https://www.canarymedia.com/articles/fossil-fuels/hawaii-relies-on-russian-oil-but-clean-energy-could-change-that",
+    "points": 11
+  },
+  {
+    "title": "Do You Need a Domain Name? Probably Not",
+    "link": "http://livingstingy.blogspot.com/2019/12/do-you-need-domain-name-probably-not.html",
+    "points": 10
+  },
+  {
+    "title": "Ask HN: How to Leave Tech Walled Gardens?",
+    "link": "item?id=30506446",
+    "points": 10
+  },
+  {
+    "title": "Almost $30 mil in crypto donations to Ukraine so far",
+    "link": "https://www.crypto-ukraine.com/",
+    "points": 10
+  },
+  {
+    "title": "Magic: The Gathering is Turing Complete (2019)",
+    "link": "https://arxiv.org/abs/1904.09828",
+    "points": 10
+  },
+  {
+    "title": "Ukrainian pilots arrive in Poland to pick up donated fighter jets",
+    "link": "https://www.politico.com/news/2022/02/28/ukrainian-pilots-arrive-in-poland-to-pick-up-donated-fighter-jets-00012560",
+    "points": 10
+  },
+  {
+    "title": "What you give up when moving into engineering management",
+    "link": "https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/",
+    "points": 9
+  },
+  {
+    "title": "GitLens 12 \u2013 Visual Studio Code Online Support and Premium Features",
+    "link": "https://www.gitkraken.com/blog/gitlens-12",
+    "points": 9
+  },
+  {
+    "title": "PC-DOS Mode Offered in New CP/M Release (1984) [pdf]",
+    "link": "https://www.z80cpu.eu/mirrors/oldcomputers.dyndns.org/public/pub/manuals/DRI_Micronotes_Vol2_1,2,3_full.pdf",
+    "points": 9
+  },
+  {
+    "title": "Ukrainian Government Confirms Destruction of An-225 the World\u2019s Largest Aircraft",
+    "link": "https://airlinegeeks.com/2022/02/27/ukrainian-government-confirms-destruction-of-an-225-the-12world-s-largest-aircraft/",
+    "points": 9
+  },
+  {
+    "title": "Testing Ansible Playbooks with Molecule",
+    "link": "https://www.sysbee.net/blog/testing-ansible-playbooks-with-molecule/",
+    "points": 9
+  },
+  {
+    "title": "Feeding the Bear: A Closer Look at Russian Army Logistics",
+    "link": "https://warontherocks.com/2021/11/feeding-the-bear-a-closer-look-at-russian-army-logistics/",
+    "points": 9
+  },
+  {
+    "title": "Piped: The Privacy-friendly YouTube front end that's efficient by design",
+    "link": "https://libredd.it/r/privacy/comments/om9h4p/piped_the_privacyfriendly_youtube/",
+    "points": 9
+  },
+  {
+    "title": "Tom Lehrer \u2013 We Will All Go Together When We Go",
+    "link": "https://www.youtube.com/watch?v=frAEmhqdLFs",
+    "points": 8
+  },
+  {
+    "title": "Amazon Opens a Whole Foods with the Next Step in Automation",
+    "link": "https://www.nytimes.com/2022/02/28/technology/whole-foods-amazon-automation.html",
+    "points": 8
+  },
+  {
+    "title": "Show HN: Language aware diff on GitHub PRs",
+    "link": "https://github.com/marketplace/difflens",
+    "points": 8
+  },
+  {
+    "title": "What is the flap about chlorinated chicken? (2018)",
+    "link": "https://www.economist.com/the-economist-explains/2018/11/13/what-is-the-flap-about-chlorinated-chicken",
+    "points": 8
+  },
+  {
+    "title": "Cyberattack on NATO could trigger collective defence clause \u2013 official",
+    "link": "https://www.reuters.com/world/europe/cyberattack-nato-could-trigger-collective-defence-clause-official-2022-02-28/",
+    "points": 8
+  },
+  {
+    "title": "TikTok expands max video length to 10 minutes",
+    "link": "https://techcrunch.com/2022/02/28/tiktok-expands-max-video-length-to-10-minutes-up-from-3-minutes/",
+    "points": 8
+  },
+  {
+    "title": "Bulgarian defence minister sacked over Ukraine rhetoric",
+    "link": "https://www.reuters.com/world/europe/bulgarian-defence-minister-be-sacked-over-ukraine-rhetoric-2022-02-28/",
+    "points": 7
+  },
+  {
+    "title": "Making Life More Confusing for Firefighters",
+    "link": "https://arxiv.org/abs/2202.12599",
+    "points": 7
+  },
+  {
+    "title": "Constrained Reweighting for Training Deep Neural Nets with Noisy Labels",
+    "link": "https://ai.googleblog.com/2022/02/constrained-reweighting-for-training.html",
+    "points": 7
+  },
+  {
+    "title": "Create a Zettelkasten for Your Notes to Improve Thinking and Writing (2013)",
+    "link": "https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/",
+    "points": 7
+  },
+  {
+    "title": "How were you able to write research papers as an undergraduate?",
+    "link": "item?id=30504663",
+    "points": 7
+  },
+  {
+    "title": "Dr. Bronner\u2019s, the Soap Company, Dips into Psychedelics",
+    "link": "https://www.nytimes.com/2022/02/28/health/ketamine-bronner-bros.html",
+    "points": 7
+  },
+  {
+    "title": "Nvidia Allegedly Hacks Hackers Who Stole Company's Data",
+    "link": "https://www.tomshardware.com/news/nvidia-allegedly-hacks-hackers-who-stole-companys-data",
+    "points": 7
+  },
+  {
+    "title": "Entrepreneurs are great, but it\u2019s mom and dad who gave them their start",
+    "link": "https://www.theguardian.com/business/2021/jan/31/small-business-entrepreneurs-success-parents",
+    "points": 7
+  },
+  {
+    "title": "Pfizer vaccine's protection against Covid wanes quickly in kids 5-11, study says",
+    "link": "https://www.npr.org/2022/02/28/1083617811/pfizer-vaccine-protection-kids",
+    "points": 7
+  },
+  {
+    "title": "Paredit Slurp and Barf Mnemonics",
+    "link": "https://susam.net/maze/paredit-slurp-and-barf-mnemonics.html",
+    "points": 7
+  },
+  {
+    "title": "Tasmanian internet down in 'major' outage across much of the state",
+    "link": "https://www.abc.net.au/news/2022-03-01/widespread-telecommunications-and-internet-outage-in-tasmania/100871822",
+    "points": 6
+  },
+  {
+    "title": "Podcast with CEO of LaunchDarkly on Lessons Learned",
+    "link": "https://www.enterpriseready.io/podcast/05-edith-harbaugh-launchdarkley/",
+    "points": 6
+  },
+  {
+    "title": "Fiona Hill on Putin",
+    "link": "https://www.politico.com/news/magazine/2022/02/28/world-war-iii-already-there-00012340",
+    "points": 6
+  },
+  {
+    "title": "TypeScript 4.6",
+    "link": "https://devblogs.microsoft.com/typescript/announcing-typescript-4-6/",
+    "points": 6
+  },
+  {
+    "title": "Netflix Declines to Carry Russian Propaganda Channels",
+    "link": "https://variety.com/2022/tv/global/netflix-russian-propaganda-channels-1235192082/",
+    "points": 6
+  },
+  {
+    "title": "Nostalgia Can Relieve Pain",
+    "link": "https://www.newswise.com/articles/nostalgia-can-relieve-pain",
+    "points": 6
+  },
+  {
+    "title": "Lockheed, Northrop, York Space to build DoD\u2019s internet-in-space constellation",
+    "link": "https://spacenews.com/lockheed-martin-northrop-grumman-york-space-selected-to-build-dods-internet-in-space-constellation/",
+    "points": 6
+  },
+  {
+    "title": "Threads (1984) [Movie]",
+    "link": "https://www.youtube.com/watch?v=5Srqyd8B9gE",
+    "points": 6
+  },
+  {
+    "title": "Lack of association between pandemic chilblains and SARS-CoV-2 infection",
+    "link": "https://www.pnas.org/doi/10.1073/pnas.2122090119",
+    "points": 5
+  },
+  {
+    "title": "Litmaps \u2013 Discover Science Faster",
+    "link": "https://www.litmaps.co/",
+    "points": 5
+  },
+  {
+    "title": "Astronomers Find Two Supermassive Black Holes Spiraling Toward a Collision",
+    "link": "https://scitechdaily.com/astronomers-find-two-supermassive-black-holes-spiraling-toward-a-cataclysmic-collision/",
+    "points": 5
+  },
+  {
+    "title": "Digital technology and the war in Ukraine \u2013 Microsoft On the Issues",
+    "link": "https://blogs.microsoft.com/on-the-issues/2022/02/28/ukraine-russia-digital-war-cyberattacks/",
+    "points": 5
+  },
+  {
+    "title": "Show HN: GraphQL-go-tools, open source GraphQL Engine, written in Golang",
+    "link": "https://github.com/jensneuse/graphql-go-tools",
+    "points": 5
+  },
+  {
+    "title": "Ask HN: How would we know if Russian Internet trolls are active here?",
+    "link": "item?id=30509628",
+    "points": 5
+  },
+  {
+    "title": "Ask HN: Are we wasting our problem solving capabilities?",
+    "link": "item?id=30508048",
+    "points": 5
+  },
+  {
+    "title": "'Rumors that Signal has been hacked are false'",
+    "link": "https://twitter.com/signalapp/status/1498437474611343367",
+    "points": 5
+  },
+  {
+    "title": "Swift Not a \u2018Nuclear Option\u2019 for Russia, the World Is Eurodollar Not Dollar",
+    "link": "https://alhambrapartners.com/2022/02/28/swift-isnt-the-nuclear-option-for-russia-because-the-world-is-eurodollar-not-dollar/",
+    "points": 5
+  },
+  {
+    "title": "Plyr \u2013 A simple HTML5, YouTube and Vimeo player",
+    "link": "https://github.com/sampotts/plyr",
+    "points": 5
+  },
+  {
+    "title": "Digilent Analog Discovery Pro ADP3450 Review, Teardown and Experiments",
+    "link": "https://www.youtube.com/watch?v=ryxxYGmRCpQ",
+    "points": 5
+  },
+  {
+    "title": "Practical Quantization in PyTorch",
+    "link": "https://pytorch.org/blog/quantization-in-practice/",
+    "points": 5
+  },
+  {
+    "title": "Tell HN: My tale of trying to pay for Oracle Cloud",
+    "link": "item?id=30507846",
+    "points": 4
+  },
+  {
+    "title": "The default answer to every dialog box is \u201cCancel\u201d (2003)",
+    "link": "https://devblogs.microsoft.com/oldnewthing/20030901-00/?p=42723",
+    "points": 4
+  },
+  {
+    "title": "Ask HN: What apps would you install if there was an extended internet outage?",
+    "link": "item?id=30507155",
+    "points": 4
+  },
+  {
+    "title": "Promnesia \u2013 A journey in fixing browser history (2020)",
+    "link": "https://beepb00p.xyz/promnesia.html",
+    "points": 4
+  },
+  {
+    "title": "Do not use \u2013enable-source-maps on AWS Lambda",
+    "link": "https://twitter.com/vvoyer/status/1498436054851981320",
+    "points": 4
+  },
+  {
+    "title": "Ask HN: Curious about Ansible but afraid or blocked on getting started?",
+    "link": "item?id=30502417",
+    "points": 4
+  },
+  {
+    "title": "Why Technical Interviews Aren't Broken",
+    "link": "https://www.youtube.com/watch?v=e2Y-rhTlHHI",
+    "points": 3
+  },
+  {
+    "title": "The Youth Movement Trying to Revolutionize Climate Politics",
+    "link": "https://www.newyorker.com/magazine/2022/03/07/the-youth-movement-trying-to-revolutionize-climate-politics",
+    "points": 3
+  },
+  {
+    "title": "Holy-shoot: A shoot 'em up game for TempleOS written in HolyC",
+    "link": "https://github.com/c6dy/holy-shoot",
+    "points": 3
+  },
+  {
+    "title": "Ask HN: How Do Companies Innovate?",
+    "link": "item?id=30508654",
+    "points": 3
+  },
+  {
+    "title": "350k-yo skulls from a Spanish cave show high rate of fractures, many healed",
+    "link": "https://arstechnica.com/science/2022/02/early-humans-kept-getting-their-heads-knocked-in/",
+    "points": 3
+  },
+  {
+    "title": "Ukrainian Drone Strikes Are Bad News for Russia",
+    "link": "https://www.forbes.com/sites/davidhambling/2022/02/28/ukrainian-drone-strike-videos-are-extremely-bad-news-for-russia/",
+    "points": 3
+  },
+  {
+    "title": "Ukrainian Animation Is Worth Celebrating",
+    "link": "https://animationobsessive.substack.com/p/ukrainian-animation-is-worth-celebrating",
+    "points": 3
+  },
+  {
+    "title": "Tracking the Battle for Kyiv",
+    "link": "https://www.abc.net.au/news/2022-03-01/satellite-images-show-russias-advance-on-kyiv-ukraine-stalling/100869776",
+    "points": 3
+  },
+  {
+    "title": "A Brief History of Pickles",
+    "link": "https://www.mentalfloss.com/article/648355/pickles-food-history",
+    "points": 3
+  },
+  {
+    "title": "USAA and Google Cloud: modernizing insurance operations with machine learning",
+    "link": "https://cloud.google.com/blog/products/ai-machine-learning/usaa-and-google-cloud-transform-insurance-operations",
+    "points": 3
+  },
+  {
+    "title": "Bitcoin network\u2019s carbon emission jumped 17% after China ban: Report",
+    "link": "https://cointelegraph.com/news/bitcoin-network-s-carbon-emission-jumped-17-after-china-ban-report",
+    "points": 3
+  },
+  {
+    "title": "Svix (YC W21) Is Hiring a Developer Advocate (Remote)",
+    "link": "https://www.svix.com/careers/",
+    "points": 0
+  }
+]
